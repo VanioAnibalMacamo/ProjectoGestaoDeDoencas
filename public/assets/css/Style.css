@@ -1,0 +1,75 @@
+body{
+    color: #555;
+}
+
+#navbar{
+    background-color: rgb(49, 40, 202);
+}
+footer{
+    background-color: black;
+}
+.col-md-12{
+    margin-top: 0px;  
+}
+.H2FooterWhite{
+    color:white;
+}
+.my-4{
+    color:teal;
+    margin-bottom: 1px;
+
+}
+.LinkFooter{
+    color:white;
+    text-decoration: none;
+}
+a :hover{
+    color:white;
+    text-decoration: whitesmoke;
+    color:rgb(21, 90, 99)
+}
+.form-group{
+    margin-bottom: 15px;
+}
+.col-md-12{
+    margin-bottom: 0px;
+    margin-top: 1px;
+}
+.col{
+    color: whitesmoke;
+}
+/*Header*/
+#navbarSupportedContent{
+    color:red;
+}
+
+.navbar-nav >li >a{
+    color: white;
+}
+#containerEspecialidades{
+    background-color: teal;
+    opacity: 0.6;
+}
+.nav-item{
+    color: white;
+}
+.nav-item:hover{ 
+    background: #03045e; 
+    color:rgb(49, 40, 202) ;
+    text-decoration: underline;
+    text-decoration-color: red;
+    
+}
+a:active{ 
+    background: #03045e; 
+    color:rgb(49, 40, 202) ;
+    text-decoration: underline;
+    text-decoration-color: red;
+    
+}
+header{
+    color: white;
+}
+.icons{
+   align-items: center;
+}
